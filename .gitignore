@@ -2,3 +2,4 @@ node_modules/
 .antigravitycli/
 .gemini/
 *.log
+.wrangler/
